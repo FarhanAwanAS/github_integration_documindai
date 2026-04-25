@@ -1,4 +1,6 @@
-✅ What You Must Deliver
+what are the requirement for chat base asistant:
+
+
 A chat-based knowledge assistant where you:
 1.
 Point it at your data sources — upload documents (PDFs, Word, Markdown), paste URLs, connect a Git repo, or paste raw text. The system chunks, embeds, and indexes everything.
