@@ -1,0 +1,17 @@
+✅ What You Must Deliver
+A chat-based knowledge assistant where you:
+1.
+Point it at your data sources — upload documents (PDFs, Word, Markdown), paste URLs, connect a Git repo, or paste raw text. The system chunks, embeds, and indexes everything.
+2.
+Ask questions in natural language — "What is our branching strategy?", "How do I set up the local dev environment for the payments service?", "What are the SLA requirements for the core banking API?"
+3.
+Get grounded answers with citations — the system retrieves relevant chunks via vector similarity, feeds them to the LLM, and returns an answer with clickable source references (document name, page/section).
+4.
+Maintains conversation context — follow-up questions work naturally: "What about for the lending service?"
+5.
+Supports team collections — create separate knowledge bases per team or project, with access control.
+🔍 Scenarios in the Dataset
+•
+New joiner asks how to set up the local dev environment — AI retrieves the correct setup guide with step-by-step instructions
+•
+Team lead asks about SLA requirements for the core banking API — AI pulls the answer from the SLA policy and links to the exact clause
